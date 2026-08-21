@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    {
+      "name": "gemini-search-mcp",
+      "repo": "https://github.com/axiomantic/gemini-search-mcp",
+      "description": "Gemini Search MCP server exposing web‑search tools for Claude."
+    }
+  ]
+}
